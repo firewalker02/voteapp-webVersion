@@ -1,0 +1,9 @@
+.navbar{
+    background-color: green !important;
+}
+.navbar a{
+    color:white  !important;
+}
+body{
+    background-color: burlywood;
+}

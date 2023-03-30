@@ -1,0 +1,33 @@
+body, html{
+height: 100%;
+}
+.container{
+    background-image: url('votappwelcome.png');
+    height: 100%;
+    width: 50%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.next {
+    background-color: #04AA6D;
+    color: white;
+    position: absolute;
+    background-position-x: center;
+    
+    font-size: 100px;
+  }
+  .bg{
+background-position-x: center;
+background-position-y:right ;
+background-size: cover;
+  }
+  .round {
+    border-radius: 50%;
+  }
+/* > */
+
+
+
+
+ 
